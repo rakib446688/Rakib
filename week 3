@@ -1,0 +1,15 @@
+def addlists(a,b):
+    result=a+b
+    return result
+
+# a=('a','b','c')
+# b=(1,2,3)
+# r = addlists(a,b)
+# a=('g','g','g')
+# b=(1,1,1)
+# r2 = addlists(a,b)
+# print(r)
+# print(r2)
+
+
+
